@@ -31,7 +31,7 @@ tags:
     print("i am a student")
 这是第二段文本
 
-~~~
+~~~ python
 import numpy
 import matplitlib
 ~~~
